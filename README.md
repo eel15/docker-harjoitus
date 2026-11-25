@@ -1,1 +1,3 @@
-# docker-harjoitusOrientaatio tietotekniikkaan: Docker-harjoitus
+# docker-harjoitus
+
+Orientaatio tietotekniikkaan: Docker-harjoitus
